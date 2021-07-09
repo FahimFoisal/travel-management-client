@@ -1,0 +1,42 @@
+
+.inputForm::placeholder {
+    font-size: 13px;
+    
+}
+/* .inputForm:focus{
+    outline: 1px solid rgb(140,180,64);
+} */
+.inputFile {
+    font-size: 13px;
+}
+.formLabel {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Cabin', sans-serif;
+}
+.containerSection{
+    background-color: rgb(247,247,249);
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {   
+  border-color: rgb(140, 180, 64);
+  box-shadow:  0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(140, 180, 64, 0.3);
+  outline: 0 none;
+}
+input[type="text"], input[type="number"] {
+    font-size: 14px;
+}

@@ -1,0 +1,20 @@
+#footer-email {
+    border: 0;
+    /* padding: 8px; */
+    border-radius: 0;
+}
+#footer-email::placeholder {
+    font-size: 13px;
+}
+.btn-color {
+    background-color: yellowgreen;
+    border-radius: 0;
+    border: 0;
+    font-size: 13px;
+}
+.btn-color:hover{
+    background-color: rgb(110, 160, 55);
+}
+/* .FourthPart {
+        padding: 0% 10%;
+} */

@@ -1,0 +1,13 @@
+.footer-font-link{
+    color: gray;
+    font-size: 13px;
+}
+.footer-font-link:visited {
+    color: grey;
+}
+.footer-font-link:hover {
+    color: yellowgreen;
+}
+.thirdPart {
+    padding-right: 10%;
+}

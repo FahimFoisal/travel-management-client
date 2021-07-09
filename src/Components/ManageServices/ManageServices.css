@@ -1,0 +1,14 @@
+
+
+.table>:not(:last-child)>:last-child>*{
+    /* border:1px solid blue;
+    margin-top:20px; */
+    border-bottom-color: rgb(140,180,64);
+    border-bottom-width: 1px;
+  }
+/* table > thead > tr > th{
+    border:1px solid blue;
+} */
+/* table > tbody > tr > td{
+    border:1px solid blue;
+} */

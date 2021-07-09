@@ -1,0 +1,32 @@
+.bookBtn {
+    background-color:white;
+}
+.linkBtn{
+    background-color: rgb(130,180,64);
+    border: none;
+    border-radius: 40px;
+    font-size: 14px;
+    font-family: 'Cabin', sans-serif;
+    padding: 16px 32px;
+    letter-spacing: 2px;
+}
+.linkBtn:hover {
+    background-color: rgb(110, 160, 55);
+}
+/* .cardContainer {
+    max-height: 500px;
+} */
+.cardTitle{
+    font-size: 16px;
+    font-weight: 600;
+}
+#service-title {
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Poppins;
+    text-align: center;
+    margin: 60px 0px 70px 0px;
+}
+.serviceSection {
+    margin-bottom: 90px;
+}

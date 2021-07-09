@@ -1,0 +1,11 @@
+.navLinkColor {
+    color: rgb(140,180,64) !important;
+    font-weight: 600;
+    font-size: 14px;
+}
+.navLinkColor:hover{
+    color: white !important;
+}
+.navBarBG{
+    background-color: rgb(49,49,49);
+}
